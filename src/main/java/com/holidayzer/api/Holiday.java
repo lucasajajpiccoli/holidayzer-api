@@ -4,7 +4,8 @@ public class Holiday {
     private String date;
     private String name;
 
-    public Holiday() {}
+    public Holiday() {
+    }
 
     public Holiday(String date, String name) {
         this.date = date;
